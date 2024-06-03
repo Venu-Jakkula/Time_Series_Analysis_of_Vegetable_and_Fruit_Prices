@@ -1,7 +1,17 @@
 # Time Series Analysis of Vegetable and Fruit Prices
 (Veggie) Market Forecasting
 
+## Table of Contents
 
+- [About the Dataset](#about-the-dataset)
+- [Source](#source)
+- [Executive Summary](executive-summary)
+- [Commodities Explored](#commodities-explored)
+- [Red Potato](#red-potato)
+- [Broad Leaf Mustard](#broad-leaf-mustard)
+- [Okra](#okra)
+- [Conclusion](#conclusion)
+- [Lesson Learned](#lesson-learned)
 
 ### About the Dataset
 
